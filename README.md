@@ -58,3 +58,7 @@ JUnit is a popular testing framework for Java. It is used for writing and runnin
 - A user-friendly application for managing Git repositories locally without using the command line.
 - Provides a visual interface for common Git tasks like committing, branching, merging, and pushing changes.
 - Helps beginners and those unfamiliar with Git commands manage projects easily.
+
+## Next Steps | Workflow
+
+Navigate to the [Workflow Repo](https://github.com/cs-plus-plus/Workflow) for more information on creating and setting up projects using these tools.
